@@ -6,7 +6,7 @@ For this final project, we conducted technical and contextual research on confli
 
 ## Modifying the Website
 
-The website's source code exists in the [docs/](https://github.com/anushadatar/conflict/tree/master/docs) directory. To modify any of the existing pages, edit the markdown file associated with the page, ad the new content will load on the webiste. 
+The website's source code exists in the [docs/](https://github.com/anushadatar/conflict/tree/master/docs) directory. To modify any of the existing pages, edit the markdown file associated with the page, and the new content will load on the webiste. Put any images you would like to add to the [images](https://github.com/anushadatar/conflict/tree/master/docs/images) directory to link them relative to the page and to maintain high-quality copies of the images. 
 
 To add a new page, add a new markdown file to the [docs/](https://github.com/anushadatar/conflict/tree/master/docs) directory. with the following header (populate TITLE_OF_PAGE with the actual title of the page). 
 ```
