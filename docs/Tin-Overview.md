@@ -31,4 +31,4 @@ Tin mining itself also shapes the ecosystem outside of the mine - mining generat
 
 
 # Legal Context of 'Conflict Metals'
-
+In 2010, the United States Dood-Frank act passed and included provisions to regulate the 3TGs (tin, tantalum, tungsten, and gold) that armed groups in the Congo were using to finance ongoing regional conflict.  
