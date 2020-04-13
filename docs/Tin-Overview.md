@@ -17,15 +17,6 @@ The most common substitute for tin is aluminium -- it’s cheaper and has simila
 ## The Tin Mining Process
 Humans have used tin since ancient times. Tin is a key component in bronze (a combination of tin and copper). Initially, the tin present in bronze likely came from existing impurities in the copper, then became a key component necessary to harden the metal and make it easier to cast.
 
-Generally, natural tin exists in the form of cassiterite (SnO <sub>2</sub>). Cassiterite mining requires dredging alluvial deposits using high-pressure water, an excavator, and/or hard-rock mining methods. Once extracted, produceers concentrate the ore to 70-77 percent tin through flotation, gravity, and magnetic processes. All of these processes generally occur at the same site as the mine.
-
-Then, after shipping the concentrated tin ore to the smelter, producers heat the tin with carbon to between 1200 and 1300 degress Celsius. This process releases carbon dioxide and leaves tin metal behind. After smelting, tin goes through the refinery (which is usually co-located with the smelter), which heats tin above its melting point such that the impurities remain solid as the tin becomes a liquid - this slag often contains other conflict mineral such as tantalum. If the refinery uses carbon-based fuel furances, the resulting metal can be up to about 99.85 percent tin. Electrolytic processes, which use electrodes to heat the cocentrate, can produce 99.9999 percent tin.
-
-# Tin Mining
-
-## The Tin Mining Process
-Humans have used tin since ancient times. Tin is a key component in bronze (a combination of tin and copper). Initially, the tin present in bronze likely came from existing impurities in the copper, then became a key component necessary to harden the metal and make it easier to cast.
-
 Generally, natural tin exists in the form of cassiterite (SnO <sub>2</sub>). Cassiterite mining requires dredging alluvial deposits using high-pressure water, an excavator, and/or hard-rock mining methods. Once extracted, producers concentrate the ore to 70-77 percent tin through flotation, gravity, and magnetic processes. All of these processes generally occur at the same site as the mine.
 
 Then, after shipping the concentrated tin ore to the smelter, producers heat the tin with carbon to between 1200 and 1300 degrees Celsius. This process releases carbon dioxide and leaves tin metal behind. After smelting, tin goes through the refinery (which is usually co-located with the smelter), which heats tin above its melting point such that the impurities remain solid as the tin becomes a liquid - this slag often contains other conflict minerals such as tantalum. If the refinery uses carbon-based fuel furnaces, the resulting metal can be up to about 99.85 percent tin. Electrolytic processes, which use electrodes to heat the concentrate, can produce 99.9999 percent tin.
