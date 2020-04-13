@@ -34,6 +34,9 @@ Then, after shipping the concentrated tin ore to the smelter, producers heat the
 The majority of tin smelters, along with tin mines, are located in China and Indonesia. China and Indonesia dominate the tin production market, though nations such as Malaysia, the Democratic Republic of the Congo, Brazil, Bolivia, and Peru also produce large quantities of tin. About forty percent of tin is mined through artisanal methods, which involve small-scale informal processes with individual miners. Artisan-scale miners generally mine by hand and work independently instead of for a mining company.
 
 ## Human Health Impacts of Tin Mining
+Exposure to large quantities of tin has links to neurological problems, damage to the immune system, respiratory irritation, skin and eye irritation, and gastrointestinal effects. Some of these problems persist long after exposure to the material. These damages have the strongest impact on those engaging in artisan-scale mining. Artisan-scale mining also often involves child labor, and tin exposure can have more drastic negative impacts on youth. 
+
+Tin mining itself also shapes the ecosystem outside of the mine - mining generates erosion and pollutes the soil and air. The tools used for mining generate noise pollution and can cause larger sedimentation issues as well. 
 
 
 # Legal Context of 'Conflict Metals'
