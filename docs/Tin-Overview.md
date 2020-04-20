@@ -7,8 +7,9 @@ Tin has a few technical properties that make it a commonly used conflict metal. 
 
 Here is a chart expressing the most common uses of Tin:
 
-![Common Uses of Tin](images/tin.png)
-
+<p align="center">
+  <img src="https://github.com/anushadatar/conflict/blob/master/docs/images/tin.png" alt="Common Uses of Tin"/>
+</p>
 
 The versatility of tin can easily be expressed through the diverse range and uses of its alloys. One of the most common tin alloys is bronze (CuSn) - used for spark resistant tools, springs, wire, electrical devices, water gauges, etc. But we also see Tin alloys in things like toothpaste -- tin fluoride (SnF2) and tin pyrophosphate (Sne2P2O7) which can help fight cavities. Type II Superconductors use Niobium Tin (Nb3Sn), Tin Oxide (SnO2) is used in glass, cosmetics, polishes, and Tin Chloride (SnCl2) is used in dyes, textiles, mirrors, and food preservatives. 
 
