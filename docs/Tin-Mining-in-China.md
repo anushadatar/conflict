@@ -1,1 +1,4 @@
-Here ya go abby
+---
+layout: "default"
+title: Tin Mining in China
+---
