@@ -28,8 +28,13 @@ The majority of tin smelters, along with tin mines, are located in China and Ind
 ## Human Health Impacts of Tin Mining
 Exposure to large quantities of tin has links to neurological problems, damage to the immune system, respiratory irritation, skin and eye irritation, and gastrointestinal effects. Some of these problems persist long after exposure to the material. These damages have the strongest impact on those engaging in artisan-scale mining. Artisan-scale mining also often involves child labor, and tin exposure can have more drastic negative impacts on youth. 
 
+Areas in close proximity with tin mines and smelting areas are very likely to be contaminated with neurotoxic metals, causing health problems not only for workers, but also residents in the area. Often the smelting process is done in make-shift sheds outside of workers’ homes, bringing the dangers even closer to home. The fumes and dust from mining and smelting is directly correlated with a high rate of neurodevelopmental delays like behavioral problems in children[1]. 
+
 Tin mining itself also shapes the ecosystem outside of the mine - mining generates erosion and pollutes the soil and air. The tools used for mining generate noise pollution and can cause larger sedimentation issues as well. 
 
 
 # Legal Context of 'Conflict Metals'
 In 2010, the United States Dood-Frank act passed and included provisions to regulate the 3TGs (tin, tantalum, tungsten, and gold) that armed groups in the Congo were using to finance ongoing regional conflict.  
+
+# Citations
+[1] Marques, Rejane, et al. “Role of Methylmercury Exposure (from Fish Consumption) on Growth and Neurodevelopment of Children Under 5 Years of Age Living in a Transitioning (Tin-Mining) Area of the Western Amazon, Brazil.” Archives of Environmental Contamination & Toxicology, vol. 62, no. 2, Feb. 2012, pp. 341–350. EBSCOhost, doi:10.1007/s00244-011-9697-4.
