@@ -2,7 +2,7 @@
 layout: "default"
 title: Tin Mining in China
 ---
-# The crazy world of Solder
+# The World of Solder
 ![Solder](images/solder.JPG) [1]
 ## Solder Overview
 The most common use case for Tin is solder. Solder is used in everything electronic, it’s how circuit components are stuck to both each other and the board. Aside from circuitry, solder is often used in pipes, welding, sheet metal, making stained glass, etc [1]. The great part about solder is that it can be melted, and flexibly moved, but once it is dried, the bonds it forms are strong.
