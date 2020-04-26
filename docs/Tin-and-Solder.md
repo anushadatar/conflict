@@ -9,7 +9,7 @@ The most common use case for Tin is solder. Solder is used in everything electro
 
 Initially, solder had a strong lead core. Usually in ratios of between 65-50 parts tin, and the remaining parts lead [1]. However, after the health risks of lead were discovered, the industry switched over to using mostly lead-free solder. Lead-free solder is usually made of one of two alloys: SnAgCu and SnCu [2]. The debate over lead-free versus leaded solder is ongoing. Some argue that leaded solder works better: Leaded solder heats up at a lower temperature than lead free solder, is cheaper than lead free solder, and dries shiny- making it easy to spot oxidation issues,etc[4]. However, the health risks of leaded solder are hard to ignore. Below is a table summarizing the health risks of using each:
 
-![Dangers of Solder](leadbad.JPG) [3]
+![Dangers of Solder](images/leadbad.JPG) [3]
 
 ## Lead Free Solder
 
