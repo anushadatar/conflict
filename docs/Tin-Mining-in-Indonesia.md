@@ -19,6 +19,7 @@ Due to the lack of safety equipment, training, and regulation, accidents are ver
 
 ![Child Labor in Mines](images/childlabor.png)Image of child labor in Indonesian mine [5]
 
+## Citations
 [1]https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/76954/1/MANUSCRIPT%20FOR%20HUSCAP_Local%20political%20dynamics%20of%20coastal%20and%20marine%20resource%20governance.pdf
 
 [2]https://www.scmp.com/magazines/post-magazine/article/1473532/casualties-ore-tin-mining-devastating-indonesian-island
