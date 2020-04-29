@@ -15,7 +15,13 @@ These differences are shaped by the chemical properties and specific impacts of 
 
 ## Leaded Solder
 ### Chemical and Thermal Properties
+In the past lead-based solder was industry standard  for plumbing and electrical application but greater understanding of the risk associated with lead product has caused this type of solder to be phased out.  Lead-based solder has been prohibited joints for plumbing systems since the 1980s [2].  In 2006, the European Union has functionally prohibited lead-based solder in consumer electronics
+The most common forms of lead based soler are 60-40 and 50-50 tin-lead mixtures [1]. 60-40 is closed to the eutectic composition of tin-lead meaning the substance has a low melting point.  The narrow range in which it melts and solidifies makes it well suited for electrical work.  50-50 tin-lead solder is able to melt and freeze over a larger range of temperatures.  It freezes around 220 degrees celsius and solidifies at 183 degrees.  This means the mixture is workable for a longer period of time which makes it useful from plumbing applications.
+
+The phase diagram indicates that at ~63% tin and ~37% lead composition, the mixture freezes and melts at the 183 degrees celsius.  Near eutectic solder used in electrical application melts beginning at 183 and is fully liquid at 191.  In the SEM micrograph, the dark regions are rich in tin and the light regions are rich.
+
 ### Sustainability and Impacts
+Lead-based solder has both an environmental impact as well as a human-health risk.  Soldering produces fine particles of solder that can be inhaled or accidentally ingested by individuals soldering [3].  Lead based plumbing systems can introduce lead into a building water source have particularly serious health consequences for children.  In electrical applications, lead in e-waste can get leached into groundwater and soil.  
 
 ## Lead Free Solder
 ### Chemical and Thermal Properties
