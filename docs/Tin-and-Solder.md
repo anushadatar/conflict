@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: Tin Mining in China
+title: Tin and Solder
 ---
 # Tin and Solder
 ![Solder](images/solder.jpg) [1]
