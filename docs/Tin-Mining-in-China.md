@@ -10,7 +10,7 @@ Industrialized mines in China are either state-owned and privately held. State-o
 
 China is also home to a large number of smelters which also service other tin-mining countries in Southeast Asia.  Those smelters are  required to abide by increasing pollution regulation.  In 2016, official environmental inspections led to smelters shutting down while improvements were made to meet industry standards.  These temporary shutdowns impacted the smelters that account for 45% of China’s annual tin production (Burton). 
 
-![Image of smelting.](images/smelter.jpg) An image of a tin smelter (Hencke).
+![Image of smelting.](images/smelter.jpg) An image of a tin smelter (Itri).
 
 Because of its large manufacturing industry, China is both the largest producer and consumer of tin and it is a net importer of tin. Recent market trends show China’s tin sector tightening.  As more tin is extracted in the county, lower grade tin that is buried deeper in the earth is getting mined.  This leads to a worse quality tin with increased mining cost ("Mixed").  In fact, if China were only to rely on internally-produced tin, it would exceed its known reserves by 2032 - as a result, China both imports a great deal of tin and invests in material recovery methods. 95% of tin coming into China was mined in Myanmar (Gunson, "Mine).
 
