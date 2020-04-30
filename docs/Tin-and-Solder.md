@@ -18,7 +18,10 @@ These differences are shaped by the chemical properties and specific impacts of 
 In the past lead-based solder was industry standard  for plumbing and electrical application but greater understanding of the risk associated with lead product has caused this type of solder to be phased out.  Lead-based solder has been prohibited joints for plumbing systems since the 1980s (Posch).  In 2006, the European Union has functionally prohibited lead-based solder in consumer electronics
 The most common forms of lead based soler are 60-40 and 50-50 tin-lead mixtures ("Solder"). 60-40 is closed to the eutectic composition of tin-lead meaning the substance has a low melting point.  The narrow range in which it melts and solidifies makes it well suited for electrical work.  50-50 tin-lead solder is able to melt and freeze over a larger range of temperatures.  It freezes around 220 degrees celsius and solidifies at 183 degrees.  This means the mixture is workable for a longer period of time which makes it useful from plumbing applications.
 
-The phase diagram indicates that at ~63% tin and ~37% lead composition, the mixture freezes and melts at the 183 degrees celsius.  Near eutectic solder used in electrical application melts beginning at 183 and is fully liquid at 191.  In the SEM micrograph, the dark regions are rich in tin and the light regions are rich.
+The phase diagram indicates that at ~63% tin and ~37% lead composition, the mixture freezes and melts at the 183 degrees celsius.  Near eutectic solder used in electrical application melts beginning at 183 and is fully liquid at 191.  In the SEM micrograph of a SnPb solder joint, the dark regions are rich in tin and the light regions are rich.
+
+![Tin-Silver microstructure](images/micgro_tin.png) (Siviour et. al)
+
 
 ### Sustainability and Impacts
 Lead-based solder has both an environmental impact as well as a human-health risk.  Soldering produces fine particles of solder that can be inhaled or accidentally ingested by individuals soldering (Hencke).  Lead based plumbing systems can introduce lead into a building water source have particularly serious health consequences for children.  In electrical applications, lead in e-waste can get leached into groundwater and soil.  
@@ -49,6 +52,8 @@ Hurtony, Tamás & Szakál, Alex & Almásy, László & Len, Adél & Kugler, Sánd
 Park, Y.J., Fray, D.J., 2009. Recovery of high purity precious metals from printed circuit boards. Journal of Hazardous Materials 164, 1152e1158
 
 Posch, Maya, et al. “Lead-Free Solder Alloys: Their Properties And Best Types For Daily Use.” Hackaday, 28 Jan. 2020, hackaday.com/2020/01/28/lead-free-solder-alloys-their-properties-and-best-types-for-daily-use/.
+
+Siviour, Clive & Walley, S.M. & Proud, W & Field, J. (2005). Mechanical properties of SnPb and lead-free solders at high rates of strain. Journal of Physics D: Applied Physics. 38. 4131. 10.1088/0022-3727/38/22/018. 
 
 “Solder.” Wikipedia, Wikimedia Foundation, 19 Apr. 2020, en.wikipedia.org/wiki/Solder.
 
