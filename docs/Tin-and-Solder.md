@@ -18,9 +18,15 @@ These differences are shaped by the chemical properties and specific impacts of 
 In the past lead-based solder was industry standard  for plumbing and electrical application but greater understanding of the risk associated with lead product has caused this type of solder to be phased out.  Lead-based solder has been prohibited joints for plumbing systems since the 1980s (Posch).  In 2006, the European Union has functionally prohibited lead-based solder in consumer electronics
 The most common forms of lead based soler are 60-40 and 50-50 tin-lead mixtures ("Solder"). 60-40 is closed to the eutectic composition of tin-lead meaning the substance has a low melting point.  The narrow range in which it melts and solidifies makes it well suited for electrical work.  50-50 tin-lead solder is able to melt and freeze over a larger range of temperatures.  It freezes around 220 degrees celsius and solidifies at 183 degrees.  This means the mixture is workable for a longer period of time which makes it useful from plumbing applications.
 
-The phase diagram indicates that at ~63% tin and ~37% lead composition, the mixture freezes and melts at the 183 degrees celsius.  Near eutectic solder used in electrical application melts beginning at 183 and is fully liquid at 191.  In the SEM micrograph of a SnPb solder joint, the dark regions are rich in tin and the light regions are rich.
+The phase diagram indicates that at ~63% tin and ~37% lead composition the mixture freezes and melts at the 183 degrees celsius.  This type of solder used in electrical application melts beginning at 183 and is fully liquid at 191.  When the liquid solder is cooling and crosses the eutectic point two solids are formed (a Pb solid and a Sn solid).
 
-![Tin-Silver microstructure](images/micgro_tin.png) (Siviour et. al)
+![Tin-Lead phase](images/phase_snpb.png) (FCT)
+
+In the SEM micrograph of a SnPb solder joint, the alternating layers of solid are indicative of a euctectic composition in solid form. Those layers are distributed by atomic diffusion and the dark regions are rich in tin, while the light regions are rich in lead.  
+
+![Tin-Lead microstructure](images/micgro_tin.png) (Siviour et. al)
+
+
 
 
 ### Sustainability and Impacts
@@ -44,6 +50,8 @@ The chemical properties and use cases of both leaded and unleaded solder has sig
 Chen, Sinn-Wen & Wang, Chao-Hong & Lin, Shih-kang & Chiu, Chen-Nan & Subramanian, K.. (2007). Phase Diagrams of Pb-Free Solders and Their Related Materials Systems. 10.1007/978-0-387-48433-4_2. 
 
 “Difference Between Lead and Lead Free Solder.” Pcboardrework, 13 July 2016, www.pcboardrework.com/difference-between-lead-and-lead-free-solder/.
+
+FCT. “Eutectic Solder.” Solder Paste, Solder Flux - FCT Solder, fctsolder.com/eutectic-solder/.
 
 Hencke, Ben. “A Hill to Die On - Why Lead Free Solder Is Better For You.” Ben Hencke, Ben Hencke, 15 Mar. 2019, www.bhencke.com/blog/2019/3/15/a-hill-to-die-on.
 
