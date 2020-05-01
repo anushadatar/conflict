@@ -4,7 +4,7 @@ title: Tin Mining in China
 ---
 # Tin Mining in China 
 
-China is home to more than 30% of global tin reserves which is predominantly excavated by artisanal miners ("Report").  These miners derive the majority of their income from mining but are categorized as farmers by the government (Gunson). Many mines pause operations for 10 day periods around planting and harvesting to allow labourers to tend to crops.  Miners tie to the land make it difficult for the workforce to relocate to new mines but full reliance on farming is insufficient income.
+Despite China being home to more than 30% of global tin reserves, we rarely hear about China and tin mining ("Report"). In fact, China is both the biggest producer and consumer of tin. Most of these Chinese mines are excavated by artisanal miners ("Report").  These miners derive the majority of their income from mining but are categorized as farmers by the government (Gunson). Many mines pause operations for 10 day periods around planting and harvesting to allow labourers to tend to crops.  Miners tie to the land make it difficult for the workforce to relocate to new mines but full reliance on farming is insufficient income.
 
 Industrialized mines in China are either state-owned and privately held. State-owned mines tend to have slightly stricter safety and environmental standards (at least in theory). Mines are licensed through a decentralized system, and licenses tend to be treated as a formality (Gunson). 
 
