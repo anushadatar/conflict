@@ -1,8 +1,8 @@
 ---
 layout: "default"
-title: Tin Mining in Southeast Asia
+title: Tin Mining in Southeast Asia and China
 ---
-# Tin Mining in Southeast Asia
+# Tin Mining in Southeast Asia and China
 
 [Tin Mining in China](https://anushadatar.github.io/conflict/Tin-Mining-in-China.html)
 
