@@ -15,14 +15,14 @@ China is also home to a large number of smelters which also service other tin-mi
 Because of its large manufacturing industry, China is both the largest producer and consumer of tin and it is a net importer of tin. Recent market trends show China’s tin sector tightening.  As more tin is extracted in the county, lower grade tin that is buried deeper in the earth is getting mined.  This leads to a worse quality tin with increased mining cost ("Mixed").  In fact, if China were only to rely on internally-produced tin, it would exceed its known reserves by 2032 - as a result, China both imports a great deal of tin and invests in material recovery methods. 95% of tin coming into China was mined in Myanmar (Gunson, "Mine).
 
 ## Citations
-Burton, Melanie. “Pollution Crackdown on China Tin Producers Could Spur Imports, Lift Prices.” Reuters, Thomson Reuters, 9 Aug. 2016, www.reuters.com/article/us-metals-tin-smelters/pollution-crackdown-on-china-tin-producers-could-spur-imports-lift-prices-idUSKCN10K0GS. </br>
+Burton, Melanie. “Pollution Crackdown on China Tin Producers Could Spur Imports, Lift Prices.” Reuters, Thomson Reuters, 9 Aug. 2016, www.reuters.com/article/us-metals-tin-smelters/pollution-crackdown-on-china-tin-producers-could-spur-imports-lift-prices-idUSKCN10K0GS. 
 
-Gunson, AJ, and Yue Jian. Artisanal Mining in The People's Republic of China. 2001, Artisanal Mining in The People's Republic of China, pubs.iied.org/pdfs/G00719.pdf?</br>
+Gunson, AJ, and Yue Jian. Artisanal Mining in The People's Republic of China. 2001, Artisanal Mining in The People's Republic of China, pubs.iied.org/pdfs/G00719.pdf?
 
-Itri. “Falling Tin Prices Prompt Chinese Smelters to Reduce Production,United States.” ScrapMonster, ScrapMonster, 22 Aug. 2019, www.scrapmonster.com/news/falling-tin-prices-prompt-chinese-smelters-to-reduce-production/1/72508. </br>
+Itri. “Falling Tin Prices Prompt Chinese Smelters to Reduce Production,United States.” ScrapMonster, ScrapMonster, 22 Aug. 2019, www.scrapmonster.com/news/falling-tin-prices-prompt-chinese-smelters-to-reduce-production/1/72508.
 
-“Mine Accident Further Tightens Chinese Tin Market.” International Tin Association, 7 Nov. 2019, www.internationaltin.org/mine-accident-further-tightens-chinese-tin-market/.</br>
+“Mine Accident Further Tightens Chinese Tin Market.” International Tin Association, 7 Nov. 2019, www.internationaltin.org/mine-accident-further-tightens-chinese-tin-market/.
 
-“Mixed Outlook for China's Tin Production and Global Analysis.” International Mining, 21 Sept. 2017, im-mining.com/2017/09/22/mixed-outlook-chinas-tin-production/.</br>
+“Mixed Outlook for China's Tin Production and Global Analysis.” International Mining, 21 Sept. 2017, im-mining.com/2017/09/22/mixed-outlook-chinas-tin-production/.
 
-Reportlinker. “Research on Global and China Tin Industry, 2013-2017.” PR Newswire: Press Release Distribution, Targeting, Monitoring and Marketing, 29 June 2018, www.prnewswire.com/news-releases/research-on-global-and-china-tin-industry-2013-2017-212781501.html.</br>
+Reportlinker. “Research on Global and China Tin Industry, 2013-2017.” PR Newswire: Press Release Distribution, Targeting, Monitoring and Marketing, 29 June 2018, www.prnewswire.com/news-releases/research-on-global-and-china-tin-industry-2013-2017-212781501.html.
