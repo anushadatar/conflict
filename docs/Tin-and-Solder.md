@@ -5,7 +5,7 @@ title: Tin and Solder
 # Tin and Solder
 ![Solder](images/solder.jpg) ("Solder")
 ## Solder Overview
-The most common use case for Tin is solder. Solder is used in almost every electronic product, as it’s how circuit components are physically and electrically connected to both each other and the circuit board. Aside from circuitry, solder is often used in pipes, welding, sheet metal, making stained glass, etc ("Solder"). Solder is useful in that it can be melted, and flexibly moved, but once it is dried, the bonds it forms are strong.
+A common use case for Tin is solder. Solder is used in almost every electronic product, as it’s how circuit components are physically and electrically connected to both each other and the circuit board. Aside from circuitry, solder is often used in pipes, welding, sheet metal, making stained glass, etc ("Solder"). Solder is useful in that it can be melted, and flexibly moved, but once it is dried, the bonds it forms are strong.
 
 Initially, solder had a strong lead core. Usually in ratios of between 65-50 parts tin, and the remaining parts lead ("Solder"). However, after the health risks of lead were discovered, the industry switched over to using mostly lead-free solder. Lead-free solder is usually made using alloys of tin with elements such as silver (Ag) and copper (Cu) (Posch). The debate over lead-free versus leaded solder is ongoing. Some argue that leaded solder works better: Leaded solder heats up at a lower temperature than lead free solder, is cheaper than lead free solder, and dries shiny- making it easy to spot oxidation issues,etc ("Difference"). However, the health risks of leaded solder are hard to ignore. Below is a table summarizing the health risks of using each:
 
