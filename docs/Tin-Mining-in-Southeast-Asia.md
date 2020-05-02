@@ -14,6 +14,6 @@ To read more about particular regions within this category in respect to tin min
 
 [Tin Mining in Myanmar](https://anushadatar.github.io/conflict/Tin-Mining-in-Myanmar.html)
 
-Sources: </br>
+Sources:
 
 Schwartz, and Djaswadi. “The Southeast Asian Tin Belt.” NASA/ADS, ui.adsabs.harvard.edu/abs/1995ESRv...38...95S/abstract.
