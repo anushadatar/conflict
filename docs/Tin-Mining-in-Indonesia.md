@@ -5,7 +5,7 @@ title: Tin Mining in Indonesia
 
 # Tin Mining in Indonesia
 
-Indonesia is one of the world’s leading tin producers. Most tin reserves and tin production in Indonesia is spread throughout its western islands (Bangka, Belitung, Singkep, and Karimun Kundur), “The Indonesian Tin Islands” (Rosyida). Despite being one of the world's leading Tin producers, Indonesian tin mining is still quite unsafe, and ruled over primiarily by other countries, often leaving miners with poor regulations, and pay.
+Indonesia is one of the world’s leading tin producers (meaning it is one of the countries that mines the most tin). Most tin reserves and tin production in Indonesia is spread throughout its western islands (Bangka, Belitung, Singkep, and Karimun Kundur), “The Indonesian Tin Islands” (Rosyida). Despite being one of the world's leading tin producers, Indonesian tin mining is still quite unsafe, and ruled over primiarily by other countries, often leaving miners with poor regulations, and pay.
 
 Indonesian mining relies mainly on foreign investment - mining regulation is largely decentralized such that the individual regions handle national resource utilization and permissions for mining - regulations require companies to do environmental analysis and pay royalties, but it is not necessarily sufficient to protect workers. Indonesia has extensive tin mines and smelting capabilities.
 
