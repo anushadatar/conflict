@@ -16,9 +16,9 @@ These differences are shaped by the chemical properties and specific impacts of 
 ## Leaded Solder
 ### Chemical and Thermal Properties
 In the past lead-based solder was industry standard  for plumbing and electrical application but greater understanding of the risk associated with lead product has caused this type of solder to be phased out.  Lead-based solder has been prohibited joints for plumbing systems since the 1980s (Posch).  In 2006, the European Union has functionally prohibited lead-based solder in consumer electronics
-The most common forms of lead based soler are 60-40 and 50-50 tin-lead mixtures ("Solder"). 60-40 is closed to the eutectic composition of tin-lead meaning the substance has a low melting point.  The narrow range in which it melts and solidifies makes it well suited for electrical work.  50-50 tin-lead solder is able to melt and freeze over a larger range of temperatures.  It freezes around 220 degrees celsius and solidifies at 183 degrees.  This means the mixture is workable for a longer period of time which makes it useful from plumbing applications.
+The most common forms of lead based soler are 60-40 and 50-50 tin-lead mixtures ("Solder"). 60-40 is closed to the eutectic composition of tin-lead meaning the substance has a low melting point.  The narrow range in which it melts and solidifies makes it well suited for electrical work.  50-50 tin-lead solder is able to melt and freeze over a larger range of temperatures.  It freezes around 220 °C and solidifies at 183 degrees.  This means the mixture is workable for a longer period of time which makes it useful from plumbing applications.
 
-The phase diagram indicates that at ~63% tin and ~37% lead composition the mixture freezes and melts at the 183 degrees celsius.  This type of solder used in electrical application melts beginning at 183 and is fully liquid at 191.  When the liquid solder is cooling and crosses the eutectic point two solids are formed (a Pb solid and a Sn solid).
+The phase diagram indicates that at ~63% tin and ~37% lead composition the mixture freezes and melts at the 183 °C.  This type of solder used in electrical application melts beginning at 183 and is fully liquid at 191.  When the liquid solder is cooling and crosses the eutectic point two solids are formed (a Pb solid and a Sn solid).
 
 ![Tin-Lead phase](images/phase_snpb.png) (FCT)
 
@@ -46,7 +46,7 @@ Lead-free solder is significantly less toxic to the environment than leaded sold
 # Conclusion
 The chemical properties and use cases of both leaded and unleaded solder has significant impacts both on electronic products themselves and the human lives and systems impacted by their production, use, and disposal.
 
-## Sources 
+# Citations
 Chen, Sinn-Wen & Wang, Chao-Hong & Lin, Shih-kang & Chiu, Chen-Nan & Subramanian, K.. (2007). Phase Diagrams of Pb-Free Solders and Their Related Materials Systems. 10.1007/978-0-387-48433-4_2. 
 
 “Difference Between Lead and Lead Free Solder.” Pcboardrework, 13 July 2016, www.pcboardrework.com/difference-between-lead-and-lead-free-solder/.
