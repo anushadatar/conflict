@@ -41,7 +41,7 @@ The phase diagram indicates that tin and silver form a eutectic solid at 220.9 Â
 ![Tin-Silver microstructure](images/unleaded-microstructure.PNG) (Hencke)
 
 ### Sustainability and Impacts
-Lead-free solder is significantly less toxic to the environment than leaded solder is. One of the most notable damages caused by the disposal of printed circuit boards is lead leeching, so eliminating leaded solder from printed circuit boards mitigates that effect (Park). That being said, the production and disposal of tin and the replacement alloy has associated overhead as well that cannot be disregarded just because lead is far worse.
+Lead-free solder is significantly less toxic to the environment than leaded solder is. One of the most notable damages caused by the disposal of printed circuit boards is lead leaching, so eliminating leaded solder from printed circuit boards mitigates that effect (Park). That being said, the production and disposal of tin and the replacement alloy has associated overhead as well that cannot be disregarded just because lead is far worse.
 
 # Conclusion
 The chemical properties and use cases of both leaded and unleaded solder has significant impacts both on electronic products themselves and the human lives and systems impacted by their production, use, and disposal.
