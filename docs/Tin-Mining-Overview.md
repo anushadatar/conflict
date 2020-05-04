@@ -3,15 +3,15 @@ layout: "default"
 title: Tin Overview
 ---
 # Properties of Tin
-Tin has a few technical properties that make it a commonly used conflict metal. Tin has a low melting point which makes it desirable for products like soldier because it can easily be melted and then used as a binding agent for other metals. Along these lines, tin is super malleable, so it can easily be worked into sheets, and ductile, so it can be worked into wire. Most commonly, we see tin used as a coating on other metals because tin is corrosion and rust resistant, and has a very low reactivity, which makes it a good protectant of the metal underneath. 
+Tin has a few technical properties that make it the most commonly used conflict metal. Tin has a low melting point which makes it desirable for products like solder because it can easily melt and then bind to other metals. Tin is malleable, so it can easily be worked into sheets, and ductile, so it can be worked into wire. Tin also can be used as a coating on other metals because tin is corrosion and rust resistant, and it has a relatively low reactivity, which makes it a good protectant of the metal underneath. 
 
-Here is a chart expressing the most common uses of Tin:
+Here is a chart showing the most common uses of Tin:
 
-![Common Uses of Tin](images/tin.png)
+![Common Uses of Tin](images/tin.jpg)
 
-The versatility of tin can easily be expressed through the diverse range and uses of its alloys. One of the most common tin alloys is bronze (CuSn) - used for spark resistant tools, springs, wire, electrical devices, water gauges, etc. But we also see Tin alloys in things like toothpaste -- tin fluoride (SnF2) and tin pyrophosphate (Sne2P2O7) which can help fight cavities. Type II Superconductors use Niobium Tin (Nb3Sn), Tin Oxide (SnO2) is used in glass, cosmetics, polishes, and Tin Chloride (SnCl2) is used in dyes, textiles, mirrors, and food preservatives. 
+The versatility of tin manifests the diverse range and uses of its alloys. One of the common tin alloy is bronze (CuSn) - used for spark resistant tools, springs, wire, electrical devices, water gauges, etc. We also see Tin alloys in products like toothpaste -- tin fluoride (SnF<sub>2</sub>) and tin pyrophosphate (Sn<sub>2</sub>P<sub>2</sub>O<sub>7</sub>) which can help fight cavities. Type II Superconductors use Niobium Tin (Nb<sub>3</sub>Sn), Tin Oxide (SnO<sub>2</sub>) is used in glass, cosmetics, polishes, and Tin Chloride (SnCl<sub>2</sub>) is used in dyes, textiles, mirrors, and food preservatives. 
 
-The most common substitute for tin is aluminium -- it’s cheaper and has similar properties. For example, we now use Al instead of tin in “tinfoil” which used to be tinplated steel, and tin cans are now just Al.
+The most common substitute for tin is aluminium -- it is cheaper and has similar properties. For example, we now use Al instead of tin in “tin foil” which used to be tinplated steel, and "tin cans" are now just made of Aluminum.
 
 # Tin Mining
 
