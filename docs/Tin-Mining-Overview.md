@@ -32,8 +32,5 @@ Areas in close proximity with tin mines and smelting areas are very likely to be
 
 Tin mining itself also shapes the ecosystem outside of the mine - mining generates erosion and pollutes the soil and air. The tools used for mining generate noise pollution and can cause larger sedimentation issues as well. 
 
-# Legal Context of 'Conflict Metals'
-In 2010, the United States Dood-Frank act passed and included provisions to regulate the 3TGs (tin, tantalum, tungsten, and gold) that armed groups in the Congo were using to finance ongoing regional conflict.  
-
-# Citations
+## Citations
 Marques, Rejane, et al. “Role of Methylmercury Exposure (from Fish Consumption) on Growth and Neurodevelopment of Children Under 5 Years of Age Living in a Transitioning (Tin-Mining) Area of the Western Amazon, Brazil.” Archives of Environmental Contamination & Toxicology, vol. 62, no. 2, Feb. 2012, pp. 341–350. EBSCOhost, doi:10.1007/s00244-011-9697-4.

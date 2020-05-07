@@ -26,9 +26,6 @@ In the SEM micrograph of a SnPb solder joint, the alternating layers of solid ar
 
 ![Tin-Lead microstructure](images/micgro_tin.png) (Siviour et. al)
 
-
-
-
 ### Sustainability and Impacts
 Lead-based solder has both an environmental impact as well as a human-health risk.  Soldering produces fine particles of solder that can be inhaled or accidentally ingested by individuals soldering (Hencke).  Lead based plumbing systems can introduce lead into a building water source have particularly serious health consequences for children.  In electrical applications, lead in e-waste can get leached into groundwater and soil.  
 
@@ -43,10 +40,10 @@ The phase diagram indicates that tin and silver form a eutectic solid at 220.9 �
 ### Sustainability and Impacts
 Lead-free solder is significantly less toxic to the environment than leaded solder is. One of the most notable damages caused by the disposal of printed circuit boards is lead leaching, so eliminating leaded solder from printed circuit boards mitigates that effect (Park). That being said, the production and disposal of tin and the replacement alloy has associated overhead as well that cannot be disregarded just because lead is far worse.
 
-# Conclusion
+## Conclusion
 The chemical properties and use cases of both leaded and unleaded solder has significant impacts both on electronic products themselves and the human lives and systems impacted by their production, use, and disposal.
 
-# Citations
+## Citations
 Chen, Sinn-Wen & Wang, Chao-Hong & Lin, Shih-kang & Chiu, Chen-Nan & Subramanian, K.. (2007). Phase Diagrams of Pb-Free Solders and Their Related Materials Systems. 10.1007/978-0-387-48433-4_2. 
 
 “Difference Between Lead and Lead Free Solder.” Pcboardrework, 13 July 2016, www.pcboardrework.com/difference-between-lead-and-lead-free-solder/.

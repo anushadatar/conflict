@@ -20,7 +20,6 @@ Due to the lack of safety equipment, training, and regulation, accidents are ver
 ![Child Labor in Mines](images/childlabor.png)Image of child labor in Indonesian mine ("Impacts").
 
 ## Citations
-
 “Casualties of Ore: Tin Mining Is Devastating the Indonesian Island of Bangka.” South China Morning Post, 13 Apr. 2014, www.scmp.com/magazines/post-magazine/article/1473532/casualties-ore-tin-mining-devastating-indonesian-island.
 
 “Impacts of Tin Mining.” Tin Mining in Indonesia, 11geokatieevans.weebly.com/impacts-of-tin-mining.html.

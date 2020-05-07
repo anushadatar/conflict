@@ -20,8 +20,7 @@ To read more about tin mining in these particular regions, check out the links b
 
 [Tin Mining in Myanmar](https://anushadatar.github.io/conflict/Tin-Mining-in-Myanmar.html)
 
-# Citation
-
+## Citations
 Ng, Samuel Wai-Pan, et al. “Late Triassic Granites from Bangka, Indonesia: A Continuation of the Main Range Granite Province of the South-East Asian Tin Belt.” Journal of Asian Earth Sciences, Pergamon, 3 Mar. 2017, www.sciencedirect.com/science/article/abs/pii/S1367912017300998.
 
 Schwartz, and Djaswadi. “The Southeast Asian Tin Belt.” NASA/ADS, ui.adsabs.harvard.edu/abs/1995ESRv...38...95S/abstract.
