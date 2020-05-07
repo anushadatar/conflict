@@ -32,10 +32,10 @@ Lead-based solder has both an environmental impact as well as a human-health ris
 ## Lead Free Solder
 ### Chemical and Thermal Properties
 There are several notable lead-free solder compounds that combine tin with other metals such as silver (Ag), copper (Cu), zinc (Zn), bismuth (Bi), indium (In), and antimony (Sb). One common alloy is Sn-Ag, or Tin and Silver, which has the following phase diagram (Chen). 
-![Tin-Silver phase diagram](images/unleaded-phase-diagram.PNG) (Hencke)
+![Tin-Silver phase diagram](images/unleaded-phase-diagram.PNG) (Chen)
 
 The phase diagram indicates that tin and silver form a eutectic solid at 220.9 °C and 3.87% Ag - at this point, the solution will be a liquid. While this point is higher than the melting point of tin-lead solders, it is still within range for most manufacturing processes. The solid that forms right below the melting point at 3.5% Ag has the following microstructure depending on the cooling rate - the image labeled S040 cooled at -6.6 °C/second, the image labeled S120 cooled at -2.0 °C/second, and the image labeled S200 cooled at -0.3 °C/second. Faster cooling leads to a finer structure with smaller grain sizes of dendritic tin, while slower cooling leads to plate-like microstructures and larger grain sizes (Hurtony).
-![Tin-Silver microstructure](images/unleaded-microstructure.PNG) (Hencke)
+![Tin-Silver microstructure](images/unleaded-microstructure.PNG) (Hurtony)
 
 ### Sustainability and Impacts
 Lead-free solder is significantly less toxic to the environment than leaded solder is. One of the most notable damages caused by the disposal of printed circuit boards is lead leaching, so eliminating leaded solder from printed circuit boards mitigates that effect (Park). That being said, the production and disposal of tin and the replacement alloy has associated overhead as well that cannot be disregarded just because lead is far worse.
