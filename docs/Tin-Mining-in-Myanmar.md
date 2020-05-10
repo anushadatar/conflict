@@ -19,6 +19,14 @@ Image of tin mine within USWA territory. (Lee)
 
 On an environmental level, many of these poorly-equipped mines have been called out for water pollution and deforestation caused during the hunt for tin ore ("Myanmar").
 
+## Tin Mining In Other Regions
+Learn more about tin mining in other regions at the links below:
+
+[Tin Mining in China](https://anushadatar.github.io/conflict/Tin-Mining-in-China.html)
+
+[Tin Mining in Indonesia](https://anushadatar.github.io/conflict/Tin-Mining-in-Indonesia.html)
+
+
 ## Citations
 Gardiner, Nicholas J., et al. “Tin Mining in Myanmar: Production and Potential.” Resources Policy, Pergamon, 29 Oct. 2015, www.sciencedirect.com/science/article/abs/pii/S0301420715000938.
 
