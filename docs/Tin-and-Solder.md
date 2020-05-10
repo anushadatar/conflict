@@ -42,22 +42,22 @@ Lead-free solder is significantly less toxic to the environment than leaded sold
 The chemical properties and use cases of both leaded and unleaded solder has significant impacts both on electronic products themselves and the human lives and systems impacted by their production, use, and disposal. While lead-free solder has less drastic environmental impacts on the sink side, lead-free solder still has negative impacts on human and environmental health, especially on the sourse side.
 
 ## Citations
-Almeida, C. M. V. B., Madureira, M. A., Bonilla, S. H., & Giannetti, B. F. (2013). Assessing the replacement of lead in solders: effects on resource use and human health. Journal of Cleaner Production, 47, 457–464. doi:10.1016/j.jclepro.2012.08.002.
+Almeida, C. M. V. B., Madureira, M. A., Bonilla, S. H., & Giannetti, B. F. "Assessing the replacement of lead in solders: effects on resource use and human health". *Journal of Cleaner Production*, vol. 47, 2013, pp. 457–464. doi:10.1016/j.jclepro.2012.08.002.
 
-Chen, Sinn-Wen & Wang, Chao-Hong & Lin, Shih-kang & Chiu, Chen-Nan & Subramanian, K.. (2007). Phase Diagrams of Pb-Free Solders and Their Related Materials Systems. 10.1007/978-0-387-48433-4_2. 
+Chen, Sinn-Wen & Wang, Chao-Hong & Lin, Shih-kang & Chiu, Chen-Nan & Subramanian, K. "Phase Diagrams of Pb-Free Solders and Their Related Materials Systems." *Lead-Free Electronic Solders*, 2007. 10.1007/978-0-387-48433-4_2. 
 
 FCT. “Eutectic Solder.” Solder Paste, Solder Flux - FCT Solder, fctsolder.com/eutectic-solder/.
 
-Hurtony, Tamás & Szakál, Alex & Almásy, László & Len, Adél & Kugler, Sándor & Bonyár, Attila & Gordon, Peter. (2016). Characterization of the microstructure of tin-silver lead free solder. Journal of Alloys and Compounds. 672. 10.1016/j.jallcom.2016.02.177.
+Hurtony, Tamás & Szakál, Alex & Almásy, László & Len, Adél & Kugler, Sándor & Bonyár, Attila & Gordon, Peter. "Characterization of the microstructure of tin-silver lead free solder." *Journal of Alloys and Compounds*, 672, 2016. 10.1016/j.jallcom.2016.02.177.
 
-Itsubo, N., Noh, J., Hayashi, K., & Inaba, A. (2003). Damage assessment of human health for lead-free solder based on endpoint-type LCIA methodology. 2003 IEEE 58th Vehicular Technology Conference. VTC 2003-Fall (IEEE Cat. No.03CH37484). doi:10.1109/vetecf.2003.239801.
+Itsubo, N., Noh, J., Hayashi, K., & Inaba, A. "Damage assessment of human health for lead-free solder based on endpoint-type LCIA methodology." *2003 IEEE 58th Vehicular Technology Conference*, 2003. VTC 2003-Fall (IEEE Cat. No.03CH37484). doi:10.1109/vetecf.2003.239801.
 
-Li, D., Conway, P. P., & Liu, C. (2008). Corrosion characterization of tin–lead and lead free solders in 3.5wt.% NaCl solution. Corrosion Science, 50(4), 995–1004. doi:10.1016/j.corsci.2007.11.025.
+Li, D., Conway, P. P., & Liu, C. "Corrosion characterization of tin–lead and lead free solders in 3.5wt.% NaCl solution." *Corrosion Science*, vol. 50, no. 4, 2008, pp. 995–1004. doi:10.1016/j.corsci.2007.11.025.
 
-Pang J.H.L. (2012) Introduction. In: Lead Free Solder. Springer, New York, NY.
+Pang J.H.L. "Introduction." *Lead Free Solder*, 2007. Springer, New York, NY.
 
-Park, Y.J., Fray, D.J., 2009. Recovery of high purity precious metals from printed circuit boards. Journal of Hazardous Materials 164, 1152e1158.
+Park, Y.J., Fray, D.J. "Recovery of high purity precious metals from printed circuit boards." *Journal of Hazardous Materials*, vol 164, 2009, pp. 1152-1158.
 
-Siviour, Clive & Walley, S.M. & Proud, W & Field, J. Mechanical properties of SnPb and lead-free solders at high rates of strain. Journal of Physics D: Applied Physics. 38. 4131. 10.1088/0022-3727/38/22/018. 
+Siviour, Clive & Walley, S.M. & Proud, W & Field, J. "Mechanical properties of SnPb and lead-free solders at high rates of strain." *Journal of Physics D: Applied Physics*, vol. 38, 2005. 10.1088/0022-3727/38/22/018. 
 
-Winston, John Stanton, "A study of cast eutectic structures by means of optical and x-ray microscopy" (1950). Masters Theses. 4880.
+Winston, John Stanton, "A study of cast eutectic structures by means of optical and x-ray microscopy" *Masters Theses*, 1950. 4880.
